@@ -37,7 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-```
+
 ### IMPORT LIBRARIES : 
 
 ```py
@@ -120,7 +120,6 @@ print(X_test)
 print("\nLenght of X_test ",len(X_test))
 ```
 
-```
 
 
 ## OUTPUT:
