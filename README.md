@@ -123,7 +123,45 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+### DATA CHECKING:
+![image](https://github.com/user-attachments/assets/2f2af1a5-66bc-48b9-8298-99a5a104207b)
+
+
+
+### MISSING DATA:
+![image](https://github.com/user-attachments/assets/46347af4-3dae-45bd-b63e-c284fd5c0ff6)
+
+
+### DUPLICATES IDENTIFICATION:
+![image](https://github.com/user-attachments/assets/112b193c-5bb8-425a-92a7-8f30f5903949)
+
+
+
+
+### VALUE OF Y:
+![image](https://github.com/user-attachments/assets/62ea3cd7-0d7d-48e7-a153-4d4d9be6150c)
+
+
+### OUTLIERS:
+![image](https://github.com/user-attachments/assets/9dd99cc4-f6b5-432e-bc5b-f4b20b7aee22)
+
+
+### CHECKING DATASET AFTER DROPPING STRING VALUES DATA FROM DATASET:
+![image](https://github.com/user-attachments/assets/526f33a3-e989-4c82-8638-1e5ece4f0284)
+
+
+### NORMALIZE THE DATASET:
+![image](https://github.com/user-attachments/assets/3d4727b7-757c-4a57-b38e-1efaed72555e)
+
+
+### SPLIT THE DATASET:
+![image](https://github.com/user-attachments/assets/10e5ba79-f97f-44b7-8efa-8653048afc34)
+
+
+### TRAINING AND TESTING MODEL:
+![image](https://github.com/user-attachments/assets/a7c0cb51-6751-407f-aff1-bf409c7815f8)
+
+
 
 
 ## RESULT:
